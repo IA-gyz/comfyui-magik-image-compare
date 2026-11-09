@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-magik-image-compare"
+version = "1.0.0"
+description = 'Magik Image Compare'
+authors = [{name = "IA-gyz"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/IA-gyz/comfyui-magik-image-compare"
+
+[tool.comfy]
+PublisherId = "IA-gyz"
+DisplayName = "Magik Image Compare"
